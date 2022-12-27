@@ -1,1 +1,1 @@
-# crfdat_prep
+# Data Preparation & Processing for CRF-Net
