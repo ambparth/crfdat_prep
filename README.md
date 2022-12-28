@@ -8,13 +8,13 @@ The Full Dataset (v1.0) part of 'trainval' are the set of files that are to be d
 The files from 'part1' to 'part10' contains all the data from different sensors ;
 
 For Radars, 
-> RADAR_FRONT_RIGHT , RADAR_FRONT_LEFT , RADAR_FRONT , RADAR_BACK_RIGHT, RADAR_BACK_LEFT (5)
+> RADAR_FRONT_RIGHT , RADAR_FRONT_LEFT , RADAR_FRONT , RADAR_BACK_RIGHT, RADAR_BACK_LEFT (Total: 5 folders)
 
 For Cameras, 
-> CAM_FRONT , CAM_FRONT_RIGHT , CAM_FRONT_LEFT , CAM_BACK , CAM_BACK_RIGHT , CAM_BACK_LEFT (6)
+> CAM_FRONT , CAM_FRONT_RIGHT , CAM_FRONT_LEFT , CAM_BACK , CAM_BACK_RIGHT , CAM_BACK_LEFT (Total: 6 folders)
 
 For Lidar, 
->LIDAR_TOP (1)
+>LIDAR_TOP (Total: 1 folder)
 
 All the files in the above subfolders should be contatenated into a single folder of the same name. A naive method is to manually copy all the contents to a common folder but at a cost of time. So, the effective way is to write a small piece of code which can finish the work in a jiffy ! 
 
