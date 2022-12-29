@@ -18,7 +18,7 @@ For Lidar,
 
 All the files in the above subfolders should be contatenated into a single folder of the same name. A naive method is to manually copy all the contents to a common folder but at a cost of time. So, the effective way is to write a small piece of code which can finish the work in a jiffy ! 
 
-The code is being written in Jupyter notebook, running each of the cell, with by substituting the path of the datasets should be sufficient !! 
+>The code is being written in Jupyter notebook, all you have to do is, replace the path of the data and run each of the blocks. 
 
 
 
